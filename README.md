@@ -1,2 +1,2 @@
 # Linear-Regression
-This is a simple linear regression involving two variables. The study hour is used to predict the score.
+This is a simple linear regression involving two variables. The study hour was used to predict the score.
